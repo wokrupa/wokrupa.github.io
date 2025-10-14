@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.png"
+  avatar           : "profile.png"
   name             : "Wojciech Krupa" # Update this with your name
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral researcher - Syracuse University based at CERN | Member of LHCb experiment at CERN"
