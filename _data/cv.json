@@ -1,152 +1,141 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Wojciech Krupa",
+    "email": "wokrupaa@gmail.com",
+    "phone": "+41 660 155 888",
+    "website": "https://orcid.org/0000-0002-7947-465X",
+    "summary": "Postdoctoral researcher at Syracuse University (based at CERN), working on the LHCb experiment. Expertise in detector operations, calibration software, data analysis, and machine learning.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "address": "12 Av. du Jura",
+      "postalCode": "01210",
+      "city": "Ferney Voltaire",
+      "countryCode": "FR",
+      "region": "France"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "network": "ORCID",
+        "url": "https://orcid.org/0000-0002-7947-465X"
       },
       {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "network": "Scopus",
+        "url": "https://www.scopus.com/authid/detail.uri?authorId=57196452374"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "wokrupa",
+        "url": "https://github.com/wokrupa"
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "position": "Postdoctoral Researcher",
+      "organization": "Syracuse University / CERN",
+      "startDate": "2023",
+      "endDate": "2025",
+      "summary": "Supervision of calibration and operation of the LHCb Upstream Tracker. Development of monitoring and calibration software."
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "position": "Assistant Professor",
+      "organization": "AGH University of Science and Technology",
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": "Development of detector readout software, ASIC testing, and student supervision."
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "education": [
+    {
+      "institution": "AGH University of Science and Technology",
+      "area": "Ph.D. in Physics",
+      "endDate": "2022",
+      "summary": "Thesis: Towards the first observation of the Bs → DsK* decay and calibration of the Upstream Tracker detector."
+    },
+    {
+      "institution": "AGH University of Science and Technology",
+      "area": "M.Sc. in Physics",
+      "endDate": "2017"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["Python", "C/C++"]
+    },
+    {
+      "name": "Data Analysis",
+      "keywords": ["ROOT", "NumPy", "Pandas", "Matplotlib"]
+    },
+    {
+      "name": "Tools",
+      "keywords": ["GitHub", "GitLab", "CI/CD", "JIRA"]
+    }
+  ],
+  "languages": [
+    { "language": "Polish", "fluency": "Native" },
+    { "language": "English", "fluency": "B2" },
+    { "language": "French", "fluency": "A2" }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Comprehensive studies on calibration parameters of the LHCb Upstream Tracker",
+      "publisher": "JINST",
+      "releaseDate": "2025-07",
+      "website": "https://cds.cern.ch/record/2940044"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "The SALT — Readout ASIC for Silicon Strip Sensors of the Upstream Tracker",
+      "publisher": "Sensors",
+      "releaseDate": "2022-01",
+      "website": "https://cds.cern.ch/record/2799248"
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Beauty to open charm final states at LHCb",
+      "publisher": "PoS ICHEP2020",
+      "releaseDate": "2021",
+      "website": "https://inspirehep.net/literature/1859778"
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "The commissioning and operational experience of LHCb — Upstream Tracker",
+      "event": "European Physical Society Conference on High Energy Physics",
+      "date": "2025-07",
+      "location": "Marseille, France"
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "name": "Comprehensive studies on calibration parameters of the LHCb Upstream Tracker",
+      "event": "Trento Workshop on Advanced Silicon Radiation Detectors",
+      "date": "2025-02",
+      "location": "Trento, Italy"
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Measurements of the CKM angle γ at LHCb",
+      "event": "XIV International Conference on Beauty, Charm and Hyperon Hadrons",
+      "date": "2022-06",
+      "location": "Kraków, Poland"
     }
   ],
-  "teaching": [
+  "awards": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "title": "Early Career Scientist Award",
+      "date": "2023",
+      "awarder": "LHCb Collaboration",
+      "summary": "For outstanding contributions to operation, monitoring, and calibration of the Upstream Tracker."
     }
   ],
-  "portfolio": [
+  "grants": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "title": "Preludium",
+      "funder": "National Science Centre, Poland",
+      "startDate": "2018",
+      "endDate": "2022"
+    },
+    {
+      "title": "Etiuda",
+      "funder": "National Science Centre, Poland",
+      "startDate": "2020",
+      "endDate": "2022"
     }
   ]
 }
