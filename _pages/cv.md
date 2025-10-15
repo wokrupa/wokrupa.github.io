@@ -7,13 +7,6 @@ redirect_from:
   - /resume
 ---
 
-Wojciech Krupa, Ph.D.
-======
-* [ORCID: 0000-0002-7947-465X](https://orcid.org/0000-0002-7947-465X)  
-* [Scopus Author ID: 57196452374](https://www.scopus.com/authid/detail.uri?authorId=57196452374)  
-
----
-
 Professional Responsibilities
 ======
 * **2024–2025:** Deputy Operations Coordinator for the LHCb Upstream Tracker (UT) group  
@@ -37,7 +30,7 @@ Professional Experience
   * Testing of SALT ASIC and participation in ASIC/hybrid test beams at CERN
   * Contributions to the commissioning of the UT detector
   * Supervision of students at AGH University and University of Cincinnati
-  * Member of local organising committee: [XIV International Conference on Beauty, Charm and Hyperon Hadrons 2022](https://inspirehep.net/conferences/1868067), CERN School of Computing 2022
+  * Member of local organising committee of international conferences. 
   * Lecturer in Physics and Machine Learning (BEST Autumn 2022, Kraków Summer School 2020–2022)
 
 ---
@@ -45,7 +38,7 @@ Professional Experience
 Education
 ======
 * **2017–2022:** Ph.D. in Physics, AGH University of Science and Technology, Kraków  
-* **2012–2017:** M.Sc. in Physics, AGH University of Science and Technology, Kraków
+* **2012–2017:** M.Sc. in Technical Physics, AGH University of Science and Technology, Kraków
 
 ---
 
@@ -59,10 +52,10 @@ Awards and Prizes
 Grants
 ======
 * **National Science Centre, Poland — Preludium (2018–2022)**  
-  Application of computational intelligence in $B_s \to D_s^{*} K^{*}$ decay analysis and autonomous data quality assessment of the UT detector at the LHCb experiment
+  Application of computational intelligence in Bs->DsstKst decay analysis and autonomous data quality assessment of the UT detector at the LHCb experiment
 
 * **National Science Centre, Poland — Etiuda (2020–2022)**  
-  First observation of the $B_s \to D_s^{*} K^{*}$ decay and calibration of the Upstream Tracker detector
+  First observation of the Bs->DsstKst decay and calibration of the Upstream Tracker detector
 
 
 ---
